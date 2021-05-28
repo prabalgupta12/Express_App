@@ -5,7 +5,6 @@
 ### For front end template ExpressJS Handlebars is used - Boostrap is used
 
 ### For  Databse uuid is used 
-### For running in development - nodemon is used
-### moment is used
+### For running locally - nodemon and moment is used
 
-## Deployment
+
